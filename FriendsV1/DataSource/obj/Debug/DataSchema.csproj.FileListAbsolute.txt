@@ -1,0 +1,4 @@
+C:\Software\MVC4Samples\FriendsV1\DataSource\bin\Debug\DataSchema.dll
+C:\Software\MVC4Samples\FriendsV1\DataSource\bin\Debug\DataSchema.pdb
+C:\Software\MVC4Samples\FriendsV1\DataSource\obj\Debug\DataSchema.dll
+C:\Software\MVC4Samples\FriendsV1\DataSource\obj\Debug\DataSchema.pdb

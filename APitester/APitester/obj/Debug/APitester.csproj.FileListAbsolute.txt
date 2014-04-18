@@ -1,0 +1,13 @@
+C:\Software\MVC4Samples\APitester\APitester\bin\Debug\APitester.exe.config
+C:\Software\MVC4Samples\APitester\APitester\obj\Debug\APitester.csprojResolveAssemblyReference.cache
+C:\Software\MVC4Samples\APitester\APitester\obj\Debug\APitester.Form1.resources
+C:\Software\MVC4Samples\APitester\APitester\obj\Debug\APitester.Properties.Resources.resources
+C:\Software\MVC4Samples\APitester\APitester\obj\Debug\APitester.csproj.GenerateResource.Cache
+C:\Software\MVC4Samples\APitester\APitester\bin\Debug\APitester.exe
+C:\Software\MVC4Samples\APitester\APitester\bin\Debug\APitester.pdb
+C:\Software\MVC4Samples\APitester\APitester\bin\Debug\Newtonsoft.Json.dll
+C:\Software\MVC4Samples\APitester\APitester\bin\Debug\System.Net.Http.Formatting.dll
+C:\Software\MVC4Samples\APitester\APitester\bin\Debug\Newtonsoft.Json.xml
+C:\Software\MVC4Samples\APitester\APitester\bin\Debug\System.Net.Http.Formatting.xml
+C:\Software\MVC4Samples\APitester\APitester\obj\Debug\APitester.exe
+C:\Software\MVC4Samples\APitester\APitester\obj\Debug\APitester.pdb
